@@ -1,0 +1,87 @@
+.topbar{
+    background-color: fuchsia;
+    overflow: hidden;
+    margin-left: 0;
+}
+
+.topbar a.first{
+    font-style: italic;
+}
+
+.topbar a{
+    font-size: 20px;
+    color: white;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.topbar a:hover{
+    background-color: pink;
+}
+
+.topbar a.split{
+    float: right;
+    background-color: palevioletred;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+h2{
+  padding: 5px;
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-right: 1000px;
+  margin-left: 40px;
+  background-color: fuchsia;
+}
+
+.article1{
+    padding: 5px;
+    width: 10%;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 18px 50px;
+    background-color: fuchsia;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.article2{
+    padding: 5px;
+    width: 10%;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 18px 50px;
+    background-color: fuchsia;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+aside{
+    padding: 5px;
+    width: 10%;
+    overflow: hidden;
+    float: right;
+    text-align: left;
+    padding: 18px 50px;
+    background-color: fuchsia;
+    margin-top: 3px;
+
+}
+
+footer{
+    background-color: fuchsia;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin-top: 400px;
+}

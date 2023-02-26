@@ -1,0 +1,64 @@
+.topbar{
+    background-color: fuchsia;
+    overflow: hidden;
+    margin-left: 0;
+}
+
+.topbar a.first{
+    font-style: italic;
+}
+
+.topbar a{
+    font-size: 20px;
+    color: white;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.topbar a:hover{
+    background-color: pink;
+}
+
+.topbar a.split{
+    float: right;
+    background-color: palevioletred;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+h3{
+    padding: 5px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 650px;
+    margin-left: 600px;
+    background-color: fuchsia;
+}
+
+form{
+    padding: 5px;
+    width: 10%;
+    float: center;
+    text-align: left;
+    color: white;
+    padding: 18px 50px;
+    background-color: fuchsia;
+    margin-top: 40px;
+    margin-left: 600px;
+}
+
+footer{
+    background-color: fuchsia;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    margin-top: 50px;
+}
+
